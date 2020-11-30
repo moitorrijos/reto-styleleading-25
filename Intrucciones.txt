@@ -1,0 +1,30 @@
+Guía de Estilos
+
+Tamaño del Componente: Card
+
+Width: 300px
+Heigth: 350px
+
+Detalles de los colores están creados en las variables CSS.
+
+    --main-title-color: #2c2c2c;
+    --main-text-color:#626262;
+    --secondary-text-color: #b8c2cc;
+    --main-bg-color: #ffffff;
+    --primary-gradient-color: #7367f0;
+    --secondary-gradient-color: #ce9ffc;
+    --primary-font-family: 'Roboto', sans-serif;
+    --font-weight-100: 100;
+    --font-weight-300: 300;
+    --font-weight-500: 500;
+
+Las variables están creadas en el archivo style.css.Ejemplo de uso: color: var(--main-title-color);
+
+La tipografía está definida en el archivo reto.html.  Google Fonts
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;500&display=swap" rel="stylesheet">
+
+La imagen "card_final.png" es la referencia visual de cómo debe quedar el componente final.
+
+Gracias por participar.
+Te deseamos los mejor.
